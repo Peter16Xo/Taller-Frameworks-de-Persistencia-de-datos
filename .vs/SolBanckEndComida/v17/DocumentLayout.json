@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{192A522B-4CFF-4CDC-A4D6-C6D54692C7DB}|PruebaCodeFirst\\PruebaCodeFirst.csproj|c:\\users\\ultra gaming\\documents\\banckend\\solbanckendcomida\\pruebacodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192A522B-4CFF-4CDC-A4D6-C6D54692C7DB}|PruebaCodeFirst\\PruebaCodeFirst.csproj|solutionrelative:pruebacodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\DataCodeFirst\\Migrations\\20241212085208_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataCodeFirst\\Migrations\\20241212085208_MigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2225C5-8136-48D6-A9DA-04AE5794D0AA}|DataCodeFirst\\DataCodeFirst.csproj|c:\\users\\ultra gaming\\documents\\banckend\\solbanckendcomida\\datacodefirst\\contexts\\comidacontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2225C5-8136-48D6-A9DA-04AE5794D0AA}|DataCodeFirst\\DataCodeFirst.csproj|solutionrelative:datacodefirst\\contexts\\comidacontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2225C5-8136-48D6-A9DA-04AE5794D0AA}|DataCodeFirst\\DataCodeFirst.csproj|c:\\users\\ultra gaming\\documents\\banckend\\solbanckendcomida\\datacodefirst\\models\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2225C5-8136-48D6-A9DA-04AE5794D0AA}|DataCodeFirst\\DataCodeFirst.csproj|solutionrelative:datacodefirst\\models\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241212085208_MigracionInicial.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\DataCodeFirst\\Migrations\\20241212085208_MigracionInicial.cs",
+              "RelativeDocumentMoniker": "DataCodeFirst\\Migrations\\20241212085208_MigracionInicial.cs",
+              "ToolTip": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\DataCodeFirst\\Migrations\\20241212085208_MigracionInicial.cs",
+              "RelativeToolTip": "DataCodeFirst\\Migrations\\20241212085208_MigracionInicial.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:52:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comida.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\DataCodeFirst\\Models\\Comida.cs",
+              "RelativeDocumentMoniker": "DataCodeFirst\\Models\\Comida.cs",
+              "ToolTip": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\DataCodeFirst\\Models\\Comida.cs",
+              "RelativeToolTip": "DataCodeFirst\\Models\\Comida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:24:57.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComidaContexts.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\DataCodeFirst\\Contexts\\ComidaContexts.cs",
+              "RelativeDocumentMoniker": "DataCodeFirst\\Contexts\\ComidaContexts.cs",
+              "ToolTip": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\DataCodeFirst\\Contexts\\ComidaContexts.cs",
+              "RelativeToolTip": "DataCodeFirst\\Contexts\\ComidaContexts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:24:44.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\PruebaCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\ULTRA GAMING\\Documents\\Banckend\\SolBanckEndComida\\PruebaCodeFirst\\Program.cs",
+              "RelativeToolTip": "PruebaCodeFirst\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:21:45.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

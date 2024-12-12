@@ -1,0 +1,14 @@
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\bin\Debug\net8.0\DataCodeFirst.deps.json
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\bin\Debug\net8.0\DataCodeFirst.runtimeconfig.json
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\bin\Debug\net8.0\DataCodeFirst.dll
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\bin\Debug\net8.0\DataCodeFirst.pdb
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.csproj.AssemblyReference.cache
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.AssemblyInfoInputs.cache
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.AssemblyInfo.cs
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.dll
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\refint\DataCodeFirst.dll
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.pdb
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\DataCodeFirst.genruntimeconfig.cache
+C:\Users\ULTRA GAMING\Documents\Banckend\SolBanckEndComida\DataCodeFirst\obj\Debug\net8.0\ref\DataCodeFirst.dll
